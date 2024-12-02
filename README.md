@@ -24,4 +24,5 @@ To analyze the sales performance of the coffee shop, focusing on metrics such as
 
 ## Dasboard Image
 
--
+- ![coffee](https://github.com/user-attachments/assets/d53e6f0e-796b-4176-8a1a-aeae2ca42051)
+
