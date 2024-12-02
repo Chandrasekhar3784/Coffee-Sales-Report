@@ -26,3 +26,13 @@ To analyze the sales performance of the coffee shop, focusing on metrics such as
 
 - ![coffee](https://github.com/user-attachments/assets/d53e6f0e-796b-4176-8a1a-aeae2ca42051)
 
+## Project Insights
+
+- The morning hours, between 7 AM and 10 AM, have the highest order volume, and sales decline significantly in the evening.
+- Coffee dominates sales (38%), while categories like Loose Tea and Packaged Chocolate contribute minimally.
+- Astoria is the best performer in sales as well as footfall while Lower Manhattan remains the worst.
+- The best-seller is Barista Espresso, and on weekdays, orders are well above weekends.
+
+## Final Conclusion:
+
+The coffee shop is busy during mornings and weekdays, particularly in terms of revenue generated from Coffee and Barista Espresso.Underperforming categories and evening sales represent opportunities for growth through targeted promotions.The success of Astoria can be taken as a model to improve performance in Lower Manhattan and other places.Overall sales and customer engagement can improve with better product variety, bundling strategies, and weekend campaigns.
