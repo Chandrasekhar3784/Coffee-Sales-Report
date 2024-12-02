@@ -29,7 +29,7 @@ To analyze the sales performance of the coffee shop, focusing on metrics such as
 - Visualization: Dynamic visuals including bar charts, line graphs, and pie charts have been developed in order to highlight the critical insights.
 - Insights & Reporting: Consolidated findings into a clear and concise dashboard to identify trends, patterns, and actionable recommendations.
 
-## Dasboard Image
+## Dashboard Image
 
 - ![coffee](https://github.com/user-attachments/assets/d53e6f0e-796b-4176-8a1a-aeae2ca42051)
 
@@ -42,4 +42,4 @@ To analyze the sales performance of the coffee shop, focusing on metrics such as
 
 ## Final Conclusion:
 
-The coffee shop is busy during mornings and weekdays, particularly in terms of revenue generated from Coffee and Barista Espresso.Underperforming categories and evening sales represent opportunities for growth through targeted promotions.The success of Astoria can be taken as a model to improve performance in Lower Manhattan and other places.Overall sales and customer engagement can improve with better product variety, bundling strategies, and weekend campaigns.
+The coffee shop is busy during mornings and weekdays, particularly in terms of revenue generated from Coffee and Barista Espresso. Underperforming categories and evening sales represent opportunities for growth through targeted promotions. The success of Astoria can be taken as a model to improve performance in Lower Manhattan and other places. Overall sales and customer engagement can improve with better product variety, bundling strategies, and weekend campaigns.
