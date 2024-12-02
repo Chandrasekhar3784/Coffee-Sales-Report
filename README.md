@@ -22,6 +22,13 @@ To analyze the sales performance of the coffee shop, focusing on metrics such as
 
 - <a href="https://github.com/Chandrasekhar3784/Coffee-Sales-Report/blob/main/Screenshot%202024-12-02%20160901.png">View Dasboard</a>
 
+## Process
+
+- Data Preparation: Imported raw data into Excel and cleaned it using features like filters, conditional formatting, and sorting.
+- Data Analysis: An analysis of trends in sales, footfall, and product categories were done using pivot tables and charts over time and locations.
+- Visualization: Dynamic visuals including bar charts, line graphs, and pie charts have been developed in order to highlight the critical insights.
+- Insights & Reporting: Consolidated findings into a clear and concise dashboard to identify trends, patterns, and actionable recommendations.
+
 ## Dasboard Image
 
 - ![coffee](https://github.com/user-attachments/assets/d53e6f0e-796b-4176-8a1a-aeae2ca42051)
